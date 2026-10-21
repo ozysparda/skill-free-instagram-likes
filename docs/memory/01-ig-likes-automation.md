@@ -325,3 +325,11 @@ skills/free-instagram-likes/
    masuk GitHub.
 6. Repo kode `gh-free-likes`: cron hosted jadi `7,37 * * * *`, workflow SMM8
    tambah upload artifact + `smm8_last_body.txt` untuk diagnosa konfirmasi.
+7. **Pemisahan repo (atas permintaan pemilik)**: skill ini dipindah ke repo
+   sendiri `ozysparda/skill-free-instagram-likes` karena ada sesi lain yang
+   juga sedang membuat skill di `ozysparda/skill-opencode-faroyzi`.
+   - Repo bersama dikembalikan ke kondisi awal (hanya `bbnews-deploy` +
+     `github-commit-terminal`); blok memory global dipisah jadi 2 blok
+     (`skill-opencode-faroyzi` & `skill-free-instagram-likes`).
+   - Kredensial lokal tetap di `docs/memory/02-kredensial-ig-likes.local.md`
+     (tidak di-commit).
