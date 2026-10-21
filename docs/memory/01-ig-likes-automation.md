@@ -1,4 +1,4 @@
-﻿# 07 — Automation Free Instagram Likes
+# 07 — Automation Free Instagram Likes
 
 > Dokumentasi lengkap & reusable. Repo kode: **https://github.com/ozysparda/gh-free-likes**
 > (PUBLIC). Skill: `skills/free-instagram-likes/`.

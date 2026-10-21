@@ -1,4 +1,4 @@
-﻿# Skill OpenCode — Free Instagram Likes
+# Skill OpenCode — Free Instagram Likes
 
 Skill + memory khusus untuk **automation free Instagram likes** (SMM panel,
 captcha multi-provider, temp-mail OTP, jadwal penuh di GitHub Actions).
@@ -24,7 +24,7 @@ pengembangan skill lain.
 | `docs/memory/02-kredensial-ig-likes.local.md` | *(lokal, tidak di-commit)* kredensial panel SMM, API key captcha, mail.tm, alias Gmail |
 
 Kode yang dijalankan skill ini ada di repo terpisah:
-**https://github.com/ozysparda/gh-free-likes** (public).
+**https://github.com/ozysparda/gh-free-likes** (private).
 
 ## Pasang di PC baru
 
